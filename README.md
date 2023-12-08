@@ -3,7 +3,7 @@
 <b>Hi, My name is Giacomo. I am a data professional.<b> 
 Welcome to my GitHub profile! I'm passionate about the world of data and analytics. Aspiring to become a data analyst, I am dedicated to leveraging data-driven insights to solve real-world problems.
 
-## 🚀 My Journey to Become a Data Analyst
+<div align="center"> <h1 align="center"> 🚀 My Journey to Become a Data Analyst </h1> </div> 
 
 - 👨‍💻 Currently completing a Data Skills Bootcamp to strengthen my foundational knowledge in data analysis.
 - 📊 Developing expertise in tools and technologies such as Python, SQL, and data visualization libraries like Matplotlib and Seaborn.
