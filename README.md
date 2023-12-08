@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+    </style>
+    <title>Giacomo Carta's GitHub Profile</title>
+</head>
+<body>
+
 # 👋 Hi, I'm Giacomo Carta!
 
 Welcome to my GitHub profile! I'm passionate about the world of data and analytics. Aspiring to become a data analyst, I am dedicated to leveraging data-driven insights to solve real-world problems.
@@ -38,4 +55,7 @@ Let's connect and explore the world of data together! You can reach me via:
 - 🖼️ [![Tableau Public](https://img.shields.io/badge/Tableau-Public-0077B5?style=for-the-badge&logo=Tableau)](https://public.tableau.com/app/profile/giacomo.carta/vizzes)
 
 Looking forward to connecting with like-minded individuals and organizations passionate about data and analytics! 📊🔍
+
+</body>
+</html>
 
