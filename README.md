@@ -1,5 +1,5 @@
 <p align="center">
-# 👋 Hi, I'm Giacomo Carta!
+    <h1>👋 Hi, I'm Giacomo Carta!</h1>
 </p>
 Welcome to my GitHub profile! I'm passionate about the world of data and analytics. Aspiring to become a data analyst, I am dedicated to leveraging data-driven insights to solve real-world problems.
 
