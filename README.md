@@ -1,9 +1,8 @@
-<div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div> 
+# 👋 Hi, I'm Giacomo Carta!
 
-<b>Hi, My name is Giacomo. I am a data professional.
-Welcome to my GitHub profile! I'm passionate about the world of data and analytics. Aspiring to become a data analyst, I am dedicated to leveraging data-driven insights to solve real-world problems.<b> 
+Welcome to my GitHub profile! I'm passionate about the world of data and analytics. Aspiring to become a data analyst, I am dedicated to leveraging data-driven insights to solve real-world problems.
 
-<div align="center"> <h1 align="center"> 🚀 My Journey to Become a Data Analyst </h1> </div> 
+## 🚀 My Journey to Become a Data Analyst
 
 - 👨‍💻 Currently completing a Data Skills Bootcamp to strengthen my foundational knowledge in data analysis.
 - 📊 Developing expertise in tools and technologies such as Python, SQL, and data visualization libraries like Matplotlib and Seaborn.
