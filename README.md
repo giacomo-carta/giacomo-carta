@@ -34,8 +34,6 @@ My goal is to combine analytical skills with a deep understanding of data to ext
 
 ## 📫 How to Reach Me
 
-Let's connect and explore the world of data together! You can reach me via:
-
 <p align="center">
     <a href="https://www.linkedin.com/in/giacomo-carta-a49986160/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn" alt="LinkedIn"/>
@@ -46,4 +44,3 @@ Let's connect and explore the world of data together! You can reach me via:
 </p>
 
 Looking forward to connecting with like-minded individuals and organizations passionate about data and analytics! 📊🔍
-
