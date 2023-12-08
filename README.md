@@ -34,7 +34,8 @@ My goal is to combine analytical skills with a deep understanding of data to ext
 
 Let's connect and explore the world of data together! You can reach me via:
 
-- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn)]([(https://www.linkedin.com/in/giacomo-carta-a49986160/)])
-- 🖼️ [![Tableau Public](https://img.shields.io/badge/Tableau-Public-0077B5?style=for-the-badge&logo=Tableau)]([(https://public.tableau.com/app/profile/giacomo.carta/vizzes)])
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/giacomo-carta-a49986160/)
+- 🖼️ [![Tableau Public](https://img.shields.io/badge/Tableau-Public-0077B5?style=for-the-badge&logo=Tableau)](https://public.tableau.com/app/profile/giacomo.carta/vizzes)
 
 Looking forward to connecting with like-minded individuals and organizations passionate about data and analytics! 📊🔍
+
