@@ -1,5 +1,6 @@
+<p align="center">
 # 👋 Hi, I'm Giacomo Carta!
-
+</p>
 Welcome to my GitHub profile! I'm passionate about the world of data and analytics. Aspiring to become a data analyst, I am dedicated to leveraging data-driven insights to solve real-world problems.
 
 ## 🚀 My Journey to Become a Data Analyst
